@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "WestLauncher",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "West Launcher",
+  "description": "Launcher minecraft moddé pour le serveur WestRedemption",
+  "author": "Casanova_41, alias PrMakarov, sur une base de Daniel Scalzi",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/PrMakarov/WestLuncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/PrMakarov/WestLuncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/PrMakarov/WestLuncher.git"
   }
 }
